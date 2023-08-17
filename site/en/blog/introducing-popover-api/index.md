@@ -244,7 +244,7 @@ You set up an anchor by giving it an `id` (in this example, `#menu-toggle`), and
 Now you have a fully-functional popover menu that is anchored to the toggle button and has all of the built-in features of popover, no JavaScript required!
 
 {% Aside %}
-There are even more exciting new features of CSS anchoring, such as `@try` statements to swap the position of the menu based on its available viewport space. This implementation is subject to chance. Explore the Codepen demo above with the *#experimental-web-platform-features* flag turned on in Chrome Canary for more.
+There are even more exciting new features of CSS anchoring, such as `@try` statements to swap the position of the menu based on its available viewport space. This implementation is subject to change. Explore the Codepen demo above with the *#experimental-web-platform-features* flag turned on in Chrome Canary for more.
 {% endAside %}
 
 ## Conclusion
